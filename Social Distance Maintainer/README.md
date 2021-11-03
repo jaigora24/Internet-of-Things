@@ -1,4 +1,4 @@
-# Distance Tracker
+# Social Distance Maintainer
 
 IoT device that helps to maintain social distance with a fellow to avoid risk of COVID-19.
 
