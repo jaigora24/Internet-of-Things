@@ -9,7 +9,6 @@ long duration;
 int distance;
 int safetyDistance;
 
-
 void setup() {
     pinMode(trigPin, OUTPUT); // Sets the trigPin as an Output
     pinMode(echoPin, INPUT); // Sets the echoPin as an Input
@@ -17,7 +16,6 @@ void setup() {
     pinMode(ledPin, OUTPUT);  // Sets the led as an Output
     Serial.begin(9600); // Starts the serial communication
 }
-
 
 void loop() {
 // Clears the trigPin
