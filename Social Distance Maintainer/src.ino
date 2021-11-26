@@ -38,7 +38,7 @@ void loop() {
          digitalWrite(buzzer, HIGH);
          digitalWrite(ledPin, HIGH);
     }
-    else{
+    else {
         digitalWrite(buzzer, LOW);
         digitalWrite(ledPin, LOW);
     }
